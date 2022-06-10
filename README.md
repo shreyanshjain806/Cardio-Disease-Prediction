@@ -7,16 +7,17 @@ tree, random forest, single layer neural network, SVM and K nearest
 neighbour.
 - To present a comparative study of the machine learning algorithms by 
 analysing the performance metrics.
-
-The proposed work predicts the chances of heart disease and 
+-The proposed work predicts the chances of heart disease and 
 classifies patient’s risk level by implementing different basic and advanced 
 regression ML techniques. 
-FEATURES
--Implementation in Google colab
--A clear visualization of the heart diseases and its prediction
--Training the model
--Performed logistic regression and Used K-nearest method
--Compared with decision tree method
--Did random forest and SVM
--Performed neural network
--Model with the best accuracy was compared
+
+1.FEATURES
+2.-Implementation in Google colab
+3.-A clear visualization of the heart diseases and its prediction
+4.-Training the model
+5.-logistic regression
+6.-K-nearest method
+7.-decision tree method
+8.-random forest and SVM
+9.-Performed neural network
+10.-Model with the best accuracy was compared
